@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Football Scores</string>
+    <string name="title_activity_takim_listesi">TakimListesi</string>
+    <string name="go">Go</string>
+</resources>
